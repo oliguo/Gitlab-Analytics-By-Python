@@ -9,13 +9,14 @@ source myenv/bin/activate
 
 # Update token in token.txt
 Ensure that you have the owner or maintainer permissions of your groups and projects.
-  
+
 token.txt
 ```
 xxxxxxx
 ```
 
 # CSVs
+Note: Member Email maybe not able to fetch if member doesn't public it.
 
 gitlab_data.csv 
 ```
